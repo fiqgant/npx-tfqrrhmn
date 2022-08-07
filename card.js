@@ -49,11 +49,11 @@ const data = {
   work: `${chalk.white(" A Geek maybe?")} ${chalk
     .hex("#2b82b2")
     .bold("https://fiqlab.dev")}`,
-  github: chalk.gray("https://github.com/") + chalk.white("fiqgant"),
-  linkedin: chalk.gray("https://linkedin.com/in/") + chalk.blue("fiqgant"),
-  instagram: chalk.gray("https://instagram.com/") + chalk.cyan("tfqrrhmn"),
-  web: chalk.cyan("https://fiqlab.dev"),
-  npx: chalk.blue("npx") + " " + chalk.white("tfqrrhmn"),
+  github: chalk.white("https://github.com/") + chalk.cyan("fiqgant"),
+  linkedin: chalk.white("https://linkedin.com/in/") + chalk.cyan("fiqgant"),
+  instagram: chalk.white("https://instagram.com/") + chalk.cyan("tfqrrhmn"),
+  web: chalk.blue("https://fiqlab.dev"),
+  npx: chalk.blue("npx") + " " + chalk.cyan("tfqrrhmn"),
 
   labelWork: chalk.white.bold("       Bio:"),
   labelInstagram: chalk.white.bold("  Instagram:"),
@@ -87,7 +87,7 @@ const me = boxen(
     float: "center",
     padding: 1,
     borderStyle: "single",
-    borderColor: "blue",
+    borderColor: "cyan",
   }
 );
 
