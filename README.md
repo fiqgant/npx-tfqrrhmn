@@ -1,11 +1,11 @@
-# npx fiqgant
+# npx tfrrhmn
 
 - Open your terminal
 - Run:
 
 
 ```javascript
-npx fiqgant
+npx tfqrrhmn
 ```
 
 and see the magic.
