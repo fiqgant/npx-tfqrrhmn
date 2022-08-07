@@ -1,0 +1,46 @@
+{
+  "name": "tfqrrhmn",
+  "version": "1.0.6",
+  "description": "A personal card for Taufiqurrahman (@fiqgant)",
+  "main": "card.js",
+  "bin": {
+    "tfqrrhmn": "card.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fiqgant/npx-fiqgant.git"
+  },
+  "scripts": {
+    "dev": "nodemon card.js",
+    "pub": "npm version major & npm publish"
+  },
+  "keywords": [
+    "card",
+    "cards",
+    "npm",
+    "boxen",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "author": "Taufiqurrahman <fiqgant@gmail.com.com> (https://fiqlab.dev)",
+  "license": "MIT",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "2.4.1",
+    "clear": "^0.1.0",
+    "cli-spinners": "^2.5.0",
+    "inquirer": "^7.3.2",
+    "open": "^7.0.4",
+    "ora": "^5.1.0",
+    "standard": "12.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/fiqgant/npx-fiqgant/issues"
+  },
+  "homepage": "https://github.com/fiqgant/npx-fiqgant#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
