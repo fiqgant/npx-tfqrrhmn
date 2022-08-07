@@ -1,6 +1,6 @@
 # npx tfrrhmn
 
-![ss](https://github.com/fiqgant/npx-tfqrrhmn/blob/master/Images/ss.png)
+![ss](https://raw.githubusercontent.com/fiqgant/npx-tfqrrhmn/master/Images/ss.gif)
 
 - Open your terminal
 - Run:
